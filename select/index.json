@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Time goes by",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2025-12-01T21:06:36.737083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/01_As_Time_Goes_By_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/02_As_Time_Goes_By_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "As Time Goes By (Preproduction - Kai on Vocals)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/03_As_Time_Goes_By_(Preproduction_-_Kai_on_Vocals)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/04_As_Time_Goes_By_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/05_As_Time_Goes_By_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time Goes By",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/06_Time_Goes_By_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Rod Stewart feat. Queen Latifah",
+      "has_synced": true,
+      "path": "select/07_As_Time_Goes_By_Rod_Stewart_feat._Queen_Latifah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Rod Stewart Queen Latifah",
+      "has_synced": true,
+      "path": "select/08_As_Time_Goes_By_Rod_Stewart_Queen_Latifah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Feeder",
+      "has_synced": false,
+      "path": "select/09_As_Time_Goes_By_Feeder.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Demis Roussos",
+      "has_synced": false,
+      "path": "select/10_As_Time_Goes_By_Demis_Roussos.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time Goes By",
+      "artist": "Triumph",
+      "has_synced": true,
+      "path": "select/11_Time_Goes_By_Triumph.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/12_As_Time_Goes_By_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "As Time Goes By (Pre-Production version) (Remastered 2017)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/13_As_Time_Goes_By_(Pre-Production_version)_(Remastered_2017)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/14_As_Time_Goes_By_ZZ_Top.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Time Goes By",
+      "artist": "Aiobahn feat. Janee & Faith",
+      "has_synced": true,
+      "path": "select/15_Time_Goes_By_Aiobahn_feat._Janee_&_Faith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Time Goes By",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/16_Time_Goes_By_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "As Time Goes By",
+      "artist": "Rod Stewart Duet with Queen Latifah",
+      "has_synced": true,
+      "path": "select/17_As_Time_Goes_By_Rod_Stewart_Duet_with_Queen_Latifah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time goes by",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_01_Time_goes_by_Every_Little_Thing.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Time goes by",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_02_Time_goes_by_Every_Little_Thing.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Time goes by… feat.jyA-Me",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_03_Time_goes_by..._feat.jyA-Me_Every_Little_Thing.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Time goes by",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_04_Time_goes_by_Every_Little_Thing.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Time Goes By",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_05_Time_Goes_By_Every_Little_Thing.txt"
+    }
+  ]
+}
